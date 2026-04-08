@@ -1,8 +1,11 @@
 <h1 align="center">Kavya Sharma</h1>
 
 <p align="center">
-  Pre-final Year · B.Tech CSE (AI/ML) · Rayat Bahra University · CGPA 8.0<br/>
-  <strong>Building intelligent systems — curious about what's underneath the hype.</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Python+Developer+and+Data+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Pre-final Year · B.Tech CSE (AI/ML) · Rayat Bahra University · CGPA 8.0
 </p>
 
 <p align="center">
@@ -58,5 +61,13 @@ CS student specialising in **AI/ML** — I've built ML pipelines, segmentation m
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thekavyaasharma&show_icons=true&hide_border=true&count_private=true&theme=default" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekavyaasharma&layout=compact&hide_border=true&theme=default" height="140"/>
+</p>
+
+---
 
 <p align="center"><em>"Understand the problem deeply enough and the solution almost writes itself."</em></p>
