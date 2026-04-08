@@ -61,13 +61,4 @@ CS student specialising in **AI/ML** — I've built ML pipelines, segmentation m
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thekavyaasharma&show_icons=true&hide_border=true&count_private=true&theme=default" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekavyaasharma&layout=compact&hide_border=true&theme=default" height="140"/>
-</p>
-
----
-
 <p align="center"><em>"Understand the problem deeply enough and the solution almost writes itself."</em></p>
