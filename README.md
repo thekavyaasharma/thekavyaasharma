@@ -1,7 +1,7 @@
 <h1 align="center">Kavya Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Python+Developer+and+Data+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=AI+and+Data+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
