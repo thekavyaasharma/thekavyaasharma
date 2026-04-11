@@ -38,26 +38,6 @@ CS student specialising in **AI/ML** — I've built ML pipelines, segmentation m
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-## 🚀 Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Customer Segmentation — RFM](https://github.com/thekavyaasharma/Customer-Segmentation-RFM-Analyis) | RFM analysis + K-Means clustering on real retail data | Python, Sklearn, Pandas |
-| [Breast Cancer Prediction](https://github.com/thekavyaasharma/Breast-Cancer-Prediction) | Logistic Regression classifier on Wisconsin Diagnostic dataset | Python, Sklearn, NumPy |
-| [Blockchain Simulation](https://github.com/thekavyaasharma/Blockchain-simulation-using-Python) | Block creation, nonce mining & consensus — built from scratch | Python, hashlib |
-| [SQL Walmart Analysis](https://github.com/thekavyaasharma/SQL-Walmart-Analysis) | Retail data analysis with aggregations & business insights | SQL, Pandas |
-| [AWS Auto Scaling Infra](https://github.com/thekavyaasharma/AWS-Auto-Scaling-Infrastructure-Project) | Scalable cloud infra with EC2, load balancers & auto scaling | AWS |
-
----
-
-## 📜 Certifications
-
-- Oracle Certified — Data Science Professional · 2025
-- Oracle Certified — AI Foundations Associate · 2025
-- AI Fundamentals — IBM · 2025
-- AI Training Workshop — OpenxAI · 2025
 
 ---
 
