@@ -16,7 +16,7 @@
 
 ---
 
-CS student specialising in **AI/ML** — I've built ML pipelines, segmentation models, and data-driven solutions using Python, SQL, and AWS. Currently focused on **Deep Learning**, **NLP**, and **LLMs**. Looking for roles where I can contribute meaningfully and actually be challenged.
+CSE student specialising in **AI/ML** — I've built ML pipelines, segmentation models, and data-driven solutions using Python, SQL, and AWS. Currently focused on **Deep Learning**, **NLP**, and **LLMs**. Looking for roles where I can contribute meaningfully.
 
 ---
 
