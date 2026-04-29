@@ -43,15 +43,5 @@ CSE student specialising in **AI/ML** — I've built ML pipelines, segmentation 
 
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://vercel.app" />
-  <img height="180em" src="https://vercel.app" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" />
-</p>
 
 <p align="center"><em>"Understand the problem deeply enough and the solution almost writes itself."</em></p>
