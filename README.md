@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Reasearch and Development Intern @CSIO-CSIR · BTech CSE · Rayat Bahra University · CGPA 8.0
+Research and Development Intern @CSIO-CSIR · BTech CSE · Rayat Bahra University · CGPA 8.0
 </p>
 
 <p align="center">
