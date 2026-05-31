@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Pre-final Year · B.Tech CSE (AI/ML) · Rayat Bahra University · CGPA 8.0
+Reasearch and Development Intern @CSIO-CSIR · BTech CSE · Rayat Bahra University · CGPA 8.0
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-CSE student specialising in **AI/ML** — I've built ML pipelines, segmentation models, and data-driven solutions using Python, SQL, and AWS. Currently focused on **Deep Learning**, **NLP**, and **LLMs**. Looking for roles where I can contribute meaningfully.
+Final Year, CSE student specialising in **AI/ML** — I've built ML pipelines, segmentation models, and data-driven solutions using Python, SQL, and AWS. Currently focused on **Deep Learning**, **NLP**, and **LLMs**. Looking for roles where I can contribute meaningfully.
 
 ---
 
