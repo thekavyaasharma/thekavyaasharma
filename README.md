@@ -45,3 +45,6 @@ Final Year, CSE student specialising in **AI/ML** — I've built ML pipelines, s
 ---
 
 <p align="center"><em>"Understand the problem deeply enough and the solution almost writes itself."</em></p>
+
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thekavyaasharma&theme=onedark-duo&hide_border=true)](https://git.io/streak-stats)
