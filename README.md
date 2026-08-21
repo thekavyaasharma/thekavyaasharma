@@ -6,8 +6,11 @@
 </p>
 
 <p align="center">
-Former AI RESEARCH INTERN @CSIR-CSIO · BTech CSE · Rayat Bahra University · CGPA 8.12
+Former AI Research Intern @CSIR - CSIO · Pragati Scholar @Infosys Springboard
+<br>
+Rayat Bahra University · CGPA 8.12
 </p>
+
 
 <p align="center">
   <a href="mailto:kavyash1804@gmail.com"><img src="https://img.shields.io/badge/Gmail-kavyash1804-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
