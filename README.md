@@ -1,4 +1,4 @@
-<h1 align="center">System.out.println("Hello World!") <br> I'm Kavya Sharma </h1>
+<h1 align="center">System.out.println("Hello World !") <br> I'm Kavya Sharma </h1>
 
 
 <p align="center">
@@ -20,7 +20,7 @@ Rayat Bahra University · CGPA 8.12
 
 ---
 
-I'm a Final Year, CSE student specializing in **Artificial Intelligence and Machine Learning**. I've built ML pipelines, segmentation models, and data-driven solutions using Python, SQL, Statistics and AWS. Currently focused on **Computer Vision**, **Deep Learning**, **Natural Language Processing**, **RAGs** and **AI Agents**. Looking for roles where I can contribute meaningfully.
+I'm a Final Year, CSE student specializing in **Artificial Intelligence and Machine Learning**. I've built ML pipelines, segmentation models, and data-driven solutions using Python, SQL, Calculus, Linear Algebra, Statistics and Cloud Computing(AWS, GCP, Oracle ). Currently focused on **Computer Vision**, **Deep Learning**, **Natural Language Processing**, **RAGs** and **AI Agents**. Looking for roles where I can contribute meaningfully.
 
 ---
 
