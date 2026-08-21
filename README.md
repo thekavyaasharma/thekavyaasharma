@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Ex-AI RESEARCH INTERN @CSIR-CSIO · BTech CSE · Rayat Bahra University · CGPA 8.12
+Former AI RESEARCH INTERN @CSIR-CSIO · BTech CSE · Rayat Bahra University · CGPA 8.12
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Ex-AI RESEARCH INTERN @CSIR-CSIO · BTech CSE · Rayat Bahra University · CGPA 
 
 ---
 
-I'm a Final Year, CSE student specialising in **AI/ML** — I've built ML pipelines, segmentation models, and data-driven solutions using Python, SQL, and AWS. Currently focused on **Deep Learning**, **NLP**, and **LLMs**. Looking for roles where I can contribute meaningfully.
+I'm a Final Year, CSE student specializing in **Artificial Intelligence and Machine Learning**. I've built ML pipelines, segmentation models, and data-driven solutions using Python, SQL, Statistics and AWS. Currently focused on **Computer Vision**, **Deep Learning**, **Natural Language Processing**, **RAGs** and **AI Agents**. Looking for roles where I can contribute meaningfully.
 
 ---
 
