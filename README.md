@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Former AI Research Intern @CSIR - CSIO · Pragati Scholar @Infosys Springboard
+Former Research Intern @CSIR - CSIO · Pragati Scholar @Infosys Springboard
 <br>
 Rayat Bahra University · CGPA 8.12
 </p>
