@@ -16,6 +16,7 @@ Rayat Bahra University · CGPA 8.12
   <a href="mailto:kavyash1804@gmail.com"><img src="https://img.shields.io/badge/Gmail-kavyash1804-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/thekavyaasharma"><img src="https://img.shields.io/badge/LinkedIn-thekavyaasharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@kavyash1804"><img src="https://img.shields.io/badge/Medium-kavyash1804-000000?style=flat-square&logo=medium&logoColor=white"/></a>
+  <a href="https://skillmeet.ai/u/kavya-sharma"><img src="https://img.shields.io/badge/SkillMeet-kavya--sharma-6A5ACD?style=flat-square&logoColor=white"/></a>
 </p>
 
 ---
